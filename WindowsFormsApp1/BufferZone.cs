@@ -8,7 +8,7 @@
         public int lengthRadiusSearch { get; set; }
         public double countOfPharmacy { get; set; }
         public double countOfResidents { get; set; }
-        public double countOfRetired { get; set; }
+        public double countOfRetired { get; set; }  
 
         public BufferZone() { }
 
